@@ -36,3 +36,8 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=amolinarius&show_icons=true&locale=en&theme=github_dark_dimmed" alt="stats"/>
 </p>
+
+<h3>Profile Picture</h3>
+<p>
+    Profile picture made by <a href="https://twitter.com/_ravimo">_ravimo</a> CC-BY-NC-SA
+</p>
