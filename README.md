@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a discordjs bot named BlueBot
-- 🌱 I’m currently learning Kotlin and Flutter
-- 👯 I’m looking to collaborate with **@VaroxDev** (I'm pretty sure he wants to be the best lol)
+- 🔭 I’m currently working on a minecraft server named [LushCraft](https://discord.gg/6ZShgC9HYy)
+- ❤️ I'm interested in Minecraft, pentesting and backend development
+- 🌱 I’m currently learning Flutter, Go and Rust
+- 👯 I’m looking to collaborate with **[furiousfurie](https://github.com/furiousfurie)** and **[Timo](https://github.com/timbo2040)**
 
 <h3>Languages</h3>
 <p>
