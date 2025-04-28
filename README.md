@@ -19,8 +19,8 @@
 
 <h3>Currently learning...</h3>
 <p>
-    <a href="https://flutter.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
     <a href="https://rust-lang.org"><img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/></a>
+    <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40">
 </p>
     
 <h3>Tools/frameworks</h3>
